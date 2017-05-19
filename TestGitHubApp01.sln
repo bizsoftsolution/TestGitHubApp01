@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGitHubApp01.DAL", "TestGitHubApp01.DAL\TestGitHubApp01.DAL.csproj", "{7CC63D0D-8A1C-4210-AA94-837431350E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGitHubApp01.BLL", "TestGitHubApp01.BLL\TestGitHubApp01.BLL.csproj", "{DC157559-F167-4BBC-98C0-7EA8993E9869}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7CC63D0D-8A1C-4210-AA94-837431350E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC63D0D-8A1C-4210-AA94-837431350E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC63D0D-8A1C-4210-AA94-837431350E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC157559-F167-4BBC-98C0-7EA8993E9869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC157559-F167-4BBC-98C0-7EA8993E9869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC157559-F167-4BBC-98C0-7EA8993E9869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC157559-F167-4BBC-98C0-7EA8993E9869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
